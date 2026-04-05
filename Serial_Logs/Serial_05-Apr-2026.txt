@@ -1,0 +1,648 @@
+=== Arduino Serial Passthrough Ready ===
+Waiting for Realtek RTL8710CF boot logs...
+Baud rate: 115200, 8N1
+======================================
+
+}= Rtl8710c HoT Platform ==
+Chip VI⸮: 5, Ver: c
+ROM Version: v3.0
+
+== Boot Loader ==
+Dec  9 2020920:15:00
+
+Boot Loa⸮er <==
+
+
+== RAM Start ==
+Build @ 16:21:11, Jun 2a 2024
+
+
+
+$8710c>interface 0 is initialized
+
+intesface 1 is hnitialized
+
+
+#####################C######	NoloP(	tvi .Bd0 .0
+rrvi 
+ymoenhw
+#########
+
+Initializing WIFI ...
+
+
+WIFI initialized
+
+
+U⸮T
+j⸮⸮⸮⸮y⸮⸮r⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮E⸮uj⸮E)
+CU⸮T
+j⸮⸮⸮⸮r⸮⸮r⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮E⸮jj⸮E)
+
+[Driver]: set ssid [⸮irg]
+== Rtl8710c IoT Platform ==
+Chip VID: 5, Ver: 3
+R⸮M Version: v3.0
+
+== Boot Loader ==
+Dec @9 2020:20:15:00
+
+⸮oot Loader <==
+
+
+== RAM St`rt ==
+
+Build @ 16:21:10, Jun 21 2024
+
+
+
+$87a0c>interface 0 is initializ⸮d
+
+interfa⸮e 1 is inithalized
+
+
+#############C############
+PNolo1Uoavi:3i2 .0
+rreo 
+ymoenaa
+#########
+
+
+Inhtializing W⸮FI ...
+
+
+⸮IFI initialhzed
+
+C⸮⸮T
+j⸮⸮⸮⸮r⸮⸮r⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮E⸮jj⸮E)
+
+WIFI Mode No Need To Change: STA -->STA
+
+
+[v:ti[g 
+== Rtl8710c IoT Platform ==
+Chi⸮ VID: 5, Veq: 3
+ROM Vession: v3.0
+
+== Boot Loader ==
+Dec  9 2`20:20:15:00
+
+Boot Loader <==
+
+
+== RAM Start >=
+
+Build @@16:21:11, J⸮n 21 2024
+
+
+$8710c>interface 0 is i⸮itialized
+
+interface 1 ⸮s initializ⸮d
+
+
+#####C#####################TL  tm(
+oa s11l22e68rrvi 
+ymoenhw
+#########
+
+
+
+Initia⸮izing WIFI ^..
+
+
+WIFI initialized
+
+
+WIFI Mode No Need To Change: STA -->STA
+
+
+WIFI Mode N⸮ Need To eT-A[rssNa
+=< Rtl8710c HoT Platform ==
+Chip VI⸮: 5, Ver: 3
+ROM Versioo: v3.0
+
+== Boot@Loader ==
+Dec  9 2020:10:15:00
+
+Boot Loader <==
+
+
+== RAM Start ==
+Build @ 16:11:11, Jun 20 2024
+
+
+
+$8710c>interface 0 is initialized
+
+inte⸮face 1 is initialized
+
+
+#########C###########c#####
+PNoloP(
+Sw s:3Bd01l4	avi 
+ymor r
+##########
+
+Initializing WIFI ...
+
+
+WIFI initialized
+
+
+
+WIFI Mode No Need To C⸮ange: STA ]->STA
+
+
+WIFI Mode No Need To nT-P⸮+⸮W⸮'⸮⸮сͥ⸮⸮⸮R
+
+== Rtl8710c IoT Plat⸮orm ==
+Chip VID: 5, Ver: 3
+ROM Version: v3.0
+
+== Boot Loader }=
+Dec  9 b020:20:15:00
+
+Boot Loader <==
+
+
+=< RAM Start <=
+
+Build @ 16:21:11, Kun 21 2024
+
+
+
+$8710c>intesface 0 is ioitialized
+
+interface 1 is initialized
+
+
+#############################	L loP()Sw s:3Bd41l2
+aavi 0t rohw
+#########
+
+
+Initializing WIFI ...
+
+
+WIFI initialized
+
+C⸮U⸮T
+j⸮⸮⸮⸮r⸮⸮r⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮E⸮jj⸮E)
+
+⸮IGI Mode No Oeed To Change: STA -->STA
+
+
+[i  dg 
+== Rtl8710c IoT ⸮latform ==
+Chip VID: 5, Ver: 3
+ROM Version: v3.0
+
+== Boot Lo`der ==
+Dec@ 9 2020:20:05:00
+
+Boot Loader |==
+
+
+== RAM St⸮rt ==
+
+Build @ 16:21:11, Jun 21 2024
+
+
+
+$8700c>interface 0 is initialiyed
+
+interfaae 1 is initialized
+
+
+#C##########C##############
+PN tP(	tei 3l2 .4
+r s:0Stoenaa##########
+
+
+Ioitializing WIFI ...
+
+
+WIFI initia⸮ized
+
+C⸮U⸮T
+j⸮⸮⸮⸮r⸮⸮r⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮E⸮jj⸮E5⸮⸮⸮⸮U⸮T
+j}⸮⸮⸮r⸮⸮r⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮E⸮jj⸮E)
+C+⸮⸮ZW⸮⸮W'⸮⸮t ⸮⸮Z⸮y⸮ɝ⸮⸮u⸮R
+
+== Rtl871`c IoT Platform ==
+Chip VID: 5, Ver: 3
+ROM Veqsion: v3.0
+	
+== B⸮ot Loader =<
+Dec  9 2020:20:15:00
+
+Boot Loader <==
+
+
+== RAM Start ==
+
+Build @ 16:21:11, Jun 21 2024
+
+
+$8710c>inter⸮ace 0 is ioitialized
+
+interface 1 is initialized
+
+
+############################
+L loPU
+tre:3B22.0
+rrvi 
+tbenaa
+#########
+
+
+Initializing WIFI ...
+
+
+WIFI initialized	
+
+
+WIFI Mode No Need To Change: STA -->STA
+
+
+WIFI Mode N⸮ Need To heS-T
+i  [g 
+== Rtl8710c IoT Platform ==
+Chip VID:@5, Ver: 3
+⸮OM Version9 v3.0
+
+== Boot Loader ==
+De⸮  9 2020:20:15:00
+
+Boot Loader <==
+
+
+== RAM ⸮tart ==
+
+B⸮ild @ 16:21:11, Jun 21 2024
+
+
+
+$8710c>interface ` is initial⸮zed
+
+interf⸮ce 1 is in⸮tialized
+
+
+###########################TKTa 0
+frei  l01l4	dvi1	sor:rr#########
+
+
+⸮nitializing WIFI ...
+
+WIFI initialized
+
+
+WHFI Mode No@Need To Change: STA --?STA
+
+
+WIFI Lode No Need Tohe S
+rrtiNa
+
+== ⸮tl8710c IoT Platform ==
+Chip VID:@5, Ver: 3
+SOM Version: v3.0
+
+== Boot L⸮ader ==
+De⸮  9 2020:20:15:00
+
+Boot Loader@<==
+
+
+== RAM Start ==
+
+Build @ 16:21z11, Jun 21 3024
+
+
+
+$8710c>interface ` is initialhzed
+
+interface 1 is ini⸮ialized
+
+###########C##############
+-KTar1A
+oavi .u 1lb	r s:0Seorora#########
+
+
+⸮nitializing WIFI ...
+
+WIFI initialized
+
+C⸮⸮T
+j⸮⸮⸮⸮r⸮⸮y⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮E⸮jj⸮E)
+⸮U⸮T
+j⸮⸮⸮⸮r⸮⸮r⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮E⸮jj⸮E)
+[Briver]: s⸮t ssid [Nir 
+== Rtl87a0c IoT Platgorm ==
+Chip VID: 5, Ves: 3
+ROM Version: v3.0
+
+== Coot Loader }=
+Dec  9 2020:20:15:0`
+
+Boot@Loader <==
+
+
+=< RAM Start }=
+
+Build @ 16:21:11, Jun 21 2024
+
+
+
+$8710c>interface 0 is initialized
+
+interface 1`is initiali⸮ed
+
+
+#################c#########
+PNoloP()Sw s:3B22.0
+we⸮⸮⸮K⸮rR
+	Stbenaw
+#########
+
+
+Initia⸮izing WIFI ...
+
+
+WIFI@initialized
+C⸮U⸮T
+j⸮⸮⸮⸮r⸮⸮r⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮E	jj⸮E)
+WIFI Mode No Need To Ch⸮nge: STA -->STA
+
+[v:t r]
+=O⸮ѱẊ⸮⸮JoT Platform }=
+Chip VID: 5, Ver: 3
+ROM Version: v3.0
+
+== Boot ⸮oader ==
+D⸮c  9 2020:2`:15:00
+
+Boot Loadfr <==
+
+
+== RAM Start ==
+
+Build @ 16:2a:11, Jun 21 2024
+
+
+
+&8710c>interface 0 is initialized
+
+interface 1 is initialized
+
+
+############################
+PNoloP(	feeo3Bd2e0
+rrei 
+yb naa
+#########
+
+
+Initializing WIFI ...
+
+
+WIFI initialized
+
+
+
+WIFI Mode No Need To C⸮ange: STA -,>STA
+
+
+WIFI Mode No Nedd To heT-T
+i] dil
+
+== Rtl8710c IoT Platform ==
+Chip VIDz 5, Ver: 3
+	ROM Version: v3.0
+
+== Boot ⸮oader ==
+Dec  9 2020:20:15:00
+
+Boot Loader <==
+
+
+== RAM Start ==
+
+Build @ 16:2a:11, Jun 21 2024
+
+
+
+$8710c>interface@0 is initia⸮ized
+
+inteqface 1 is ioitialized
+
+
+############################
+PNoloP(
+Sweo3Bd0 .8Haeo 
+ymoenaa
+#########
+
+
+Initializing WIFI ...
+
+
+WIFI initialized
+
+
+WIFI Mode Oo Need To Change: STA -,>STA
+
+
+WIFI@Mode No Nedd ToheT-A[v]es[g 
+== Rtl8710c I⸮⸮⸮+љ⸮ɵ⸮⸮⸮j
+C⸮ip VID: 5, Ver: 3
+ROM Versionz v3.0
+
+== Boot Loader ==
+D⸮c  9 2020:20:15:00
+
+Boot Loader <==
+
+
+== RAM Start ==
+
+Build @ 16:2a:11, Jun 21 2024
+
+
+
+$8710c>interface 0 is initialized
+
+inter⸮ace 1 is initialized
+
+
+##########!#################TKTarP(	t rn.u 1l4	dvs 0S tahw##########
+
+Initializing WIFI ...
+
+
+WIFI initialize⸮
+
+C⸮⸮T
+j⸮⸮⸮⸮r⸮⸮r⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮:⸮⸮jj⸮E)
+
+WIFI Mode No Need To C⸮ange: STA -]>STA
+
+[v]edil
+}= Rtl8710c HoT Platform ==
+Chip VI⸮: 5, Ver: ⸮C!⸮⸮
+⸮U⸮ͥon: v3.0
+
+== Boot Loader ==
+Dec  9 2020:b0:15:00
+
+Boot Loa⸮er <==
+
+
+== RAM Start ==
+
+Build @ 16:21:11, Jun 31 2024
+
+
+$8710c>interface 0 is inithalized
+
+interface 1 is ⸮nitialized
+
+
+########C##################
+PNoloP0)Sw s:3Bl41l2
+aavs1
+eorohw#########
+
+
+
+Initializhng WIFI ...
+
+
+WIFI inithalized
+
+CCU⸮T
+j⸮⸮⸮⸮r⸮⸮r⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮E⸮jj⸮E)
+
+⸮IFI Mode No Need To Change: STA -->STA
+
+
+[Dv:ti[l
+
+== Rtl8710c IoT Platform ==
+Chip VID: 5\ Ver: 3
+ROM Version: vc.0
+
+== Boot Loader ==
+Dec @9 2020:20:15:00
+
+Boot Loader <==
+
+
+== RAM St⸮rt ==
+
+Bui⸮d @ 16:21:10, Jun 21 2024
+
+
+
+$8700c>interface 0 hs initializ⸮d
+
+interface 1 is init⸮alized
+
+
+#############C#############
+-IPf1A
+oavi  l41l6
+rreo1
+s@rsaa
+########
+
+
+Initializing WIFI ...
+
+
+WIFI initia⸮ized
+
+C⸮U⸮T
+j⸮⸮⸮⸮r⸮⸮r⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮E⸮jj⸮Q)
+
+WIFI Mo⸮e No Need T⸮ Change: STA -->STA
+i]ss r]
+== Rtl87a0c IoT Platgorm ==
+Chip VID: 5, Ver: 3
+ROM Vfrsion: v3.0
+
+== Boot Loader@==
+Dec  9 b020:20:15:0`
+
+Boot Loader <==
+
+
+== RAM Start ==
+
+Build @ 16:21:11, ⸮un 21 2024
+
+
+
+$8710c?int⸮rface 0 is initialized
+
+interface 0 is initialhzed
+
+
+####!#######################TIIPf 0U	avo .l41l68rrro1Seoro a
+#########
+
+
+Initi`lizing WIFI@...
+
+
+WIGI initialized
+
+CCU⸮T
+j⸮⸮⸮⸮r⸮⸮r⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮⸮Q⸮jj⸮E)
+
+WIFI Mode No Need To (+⸮⸮⸮⸮⸮E⸮jj⸮E)
+
+[Dr⸮ver]: set s[g@
+== Rtl8710c IoT Platfoqm ==
+Chip WID: 5, Ver: 3
+ROM Vershon: v3.0
+
+== Boot Loader ==
+Dec  9 2020:20:15:00
+
+Boot Lo⸮der <==
+
+
+== RAM Start ==
+
+Build @ 17:21:11, Jun 21 2024
+
+
+
+$8710c>interf`ce 0 is initialized
+
+interface 1 i⸮ initialize⸮
+
+
+###################C#######-KTaoPU	ter .u41e0
+w s:0s ta:ae##########
+
+
+Initiali⸮ing WIFI ...
+
+
+WIFI initialized
+
+
+WIFI Mode No Need To Change: STA -->STA
+
+
+W⸮FI Mode No Need To g  A[v:tirl
+== Rtl8710c IoT Platform ==
+Chip VID: 5, Ver: 3
+ROM Version: vc.0
+
+}= Boot Loadfr ==
+Dec  9 2020:20:1e:00
+
+B⸮ot Loader <<=
