@@ -1,5 +1,5 @@
 # TP-Link Tapo P110
-Random information about the TP-Link Tapo P110 smart switch.<br>
+Random information about the TP-Link Tapo P110 smart plug.<br>
 
 ## YouTube Videos
 - [Part 1: Initial teardown & serial port logs](https://youtu.be/b5snm9TfyWc)
