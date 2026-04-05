@@ -2,7 +2,7 @@
 Random information about the TP-Link Tapo P110 smart switch.<br>
 
 ## YouTube Videos
-- [Part 1](https://youtu.be/b5snm9TfyWc)
+- [Part 1: Initial teardown & serial port logs](https://youtu.be/b5snm9TfyWc)
 
 ## [Images](/Images)
 Photos of the board and components.<br>
