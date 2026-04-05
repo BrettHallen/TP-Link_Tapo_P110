@@ -7,8 +7,13 @@ Random information about the TP-Link Tapo P110 smart switch.<br>
 ## [Images](/Images)
 Photos of the board and components.<br>
 
+## Main Parts
+- U1: Silergy SY22841 buck regulator
+- U2: Realtek RTL8710CF ARM Cortex-M3 microcontroller
+- U7: Shanghai Belling BL0937 energy meter
+
 ## [Schematic](/Schematic)
-A perhaps-never-completed schematic (KiCad) of the board.  My main interest is how the handle the 240VAC-to-DC conversion so I can implement something similar in my own project.<br>
+A perhaps-never-to-be-completed schematic (KiCad) of the board.  My main interest is how they handle the 240VAC-to-DC conversion so I can implement something similar in my own project.<br>
 
 ## Microcontroller Daughterboard
 The P110 uses a custom daughterboard labelled KB-6160 and ZSL-1 containing a Realtek RTL8170CF ARM Cortex-M3 microcontroller.<br>
