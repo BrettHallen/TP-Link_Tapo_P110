@@ -7,6 +7,11 @@ Random information about the TP-Link Tapo P110 smart plug.<br>
 ## [Images](/Images)
 Photos of the board and components.<br>
 
+## [Serial Logs](/Serial_Logs)
+Outputs from the serial debugging port on the Realtek chip captured via the Test Points.  I'm currently using an Arduino Mega with two hardware serial ports - one to capture the serial from the Realtek chip and a second to pass to my computer.<br>
+
+The Realtek chip requires 3.3V ... this can be powered from the Arduino Mega and its serial TX doesn't require a 3.3V-to-5V level shifter.<br>
+
 ## Main Parts
 - U1: Silergy SY22841 buck regulator
 - U2: Realtek RTL8710CF ARM Cortex-M3 microcontroller
