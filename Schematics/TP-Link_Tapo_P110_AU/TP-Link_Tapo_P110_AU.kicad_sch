@@ -1628,6 +1628,308 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Relay:Relay_SPST-NO"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "K"
+				(at 11.43 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "Relay_SPST-NO"
+				(at 11.43 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 11.43 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Relay SPST, normally open, EN50005"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "1P1T 1-Form-A single pole throw NO"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Relay?SPST*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Relay_SPST-NO_0_0"
+				(polyline
+					(pts
+						(xy 7.62 5.08) (xy 7.62 2.54) (xy 6.985 3.175) (xy 7.62 3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Relay_SPST-NO_0_1"
+				(rectangle
+					(start -10.16 5.08)
+					(end 10.16 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -8.255 1.905)
+					(end -1.905 -1.905)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -7.62 -1.905) (xy -2.54 1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 5.08) (xy -5.08 1.905)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 -5.08) (xy -5.08 -1.905)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.635 0) (xy 0 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.905 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.175 0) (xy 3.81 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 -2.54) (xy 3.175 3.81)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 -2.54) (xy 5.08 -5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Relay_SPST-NO_1_1"
+				(pin passive line
+					(at -5.08 7.62 270)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -7.62 90)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -7.62 90)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 7.62 270)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Sensor:BL0937"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2377,6 +2679,18 @@
 		(uuid "25de5769-628a-4fa6-b278-86a3a62dd086")
 	)
 	(junction
+		(at 73.66 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5c7e3a9b-8f75-4369-9024-7e2829a2251b")
+	)
+	(junction
+		(at 30.48 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5e3e979a-5fea-4306-9abc-52175e61b602")
+	)
+	(junction
 		(at 129.54 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2410,6 +2724,16 @@
 	)
 	(wire
 		(pts
+			(xy 30.48 69.85) (xy 30.48 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f544f88-83ed-4f2f-b268-6ab17855bf06")
+	)
+	(wire
+		(pts
 			(xy 78.74 43.18) (xy 82.55 43.18)
 		)
 		(stroke
@@ -2427,6 +2751,16 @@
 			(type default)
 		)
 		(uuid "4abd15f9-bcf9-449d-8435-93cd75b69412")
+	)
+	(wire
+		(pts
+			(xy 71.12 107.95) (xy 71.12 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "553c372d-bcd7-4680-a672-a5ff7f2c5f88")
 	)
 	(wire
 		(pts
@@ -2450,13 +2784,23 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 55.88) (xy 96.52 55.88)
+			(xy 59.69 55.88) (xy 73.66 55.88)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "6f25f7a5-e887-4d55-88c8-6990663bbe10")
+	)
+	(wire
+		(pts
+			(xy 30.48 53.34) (xy 30.48 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70a59088-b07b-4f6e-a051-13e28090a407")
 	)
 	(wire
 		(pts
@@ -2477,6 +2821,16 @@
 			(type default)
 		)
 		(uuid "7f53d62a-a82e-490a-aece-3e6ad4691b4b")
+	)
+	(wire
+		(pts
+			(xy 73.66 55.88) (xy 73.66 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e42bf41-4a96-4aa3-8aef-929daa71c21a")
 	)
 	(wire
 		(pts
@@ -2520,6 +2874,16 @@
 	)
 	(wire
 		(pts
+			(xy 27.94 88.9) (xy 27.94 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6f4952a-b7de-4d39-b0bb-cede42603644")
+	)
+	(wire
+		(pts
 			(xy 96.52 55.88) (xy 96.52 53.34)
 		)
 		(stroke
@@ -2527,6 +2891,16 @@
 			(type default)
 		)
 		(uuid "c8976023-f32d-4212-8f4a-431ced5b0b45")
+	)
+	(wire
+		(pts
+			(xy 73.66 55.88) (xy 96.52 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d370bb0b-cff5-4485-aab2-fe37b291a55a")
 	)
 	(wire
 		(pts
@@ -2540,6 +2914,16 @@
 	)
 	(wire
 		(pts
+			(xy 30.48 43.18) (xy 57.15 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e75400cc-5557-43a7-ad6e-f026dad4cc5c")
+	)
+	(wire
+		(pts
 			(xy 110.49 43.18) (xy 96.52 43.18)
 		)
 		(stroke
@@ -2550,7 +2934,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 43.18) (xy 57.15 43.18)
+			(xy 29.21 43.18) (xy 30.48 43.18)
 		)
 		(stroke
 			(width 0)
@@ -2727,6 +3111,83 @@
 			(justify left bottom)
 		)
 		(uuid "d932a79a-e2fb-41f9-a204-dae40ce2caee")
+	)
+	(symbol
+		(lib_id "Relay:Relay_SPST-NO")
+		(at 78.74 95.25 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "05ccd5ae-4045-413a-8687-115a858e3334")
+		(property "Reference" "SW2"
+			(at 90.17 93.9799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Churod A1-S-105IA2F"
+			(at 90.17 96.5199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 67.31 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 78.74 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Relay SPST, normally open, EN50005"
+			(at 78.74 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "A1"
+			(uuid "b261ba5f-9676-4ee6-82aa-ea33c3e935ba")
+		)
+		(pin "A2"
+			(uuid "2707317d-4ad6-4964-86a4-716c433eb3c7")
+		)
+		(pin "13"
+			(uuid "dfe5fecd-9a8d-4a7b-a1df-9d96b9cb0fde")
+		)
+		(pin "14"
+			(uuid "38b3e94b-3392-4547-baf7-cf4b7ffa8499")
+		)
+		(instances
+			(project ""
+				(path "/7315a680-fa54-4737-88bc-efa2941399e6"
+					(reference "SW2")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Diode:SS14")
@@ -3256,6 +3717,73 @@
 			(project ""
 				(path "/7315a680-fa54-4737-88bc-efa2941399e6"
 					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:AC")
+		(at 27.94 88.9 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4a3fbcfb-cb21-4e2f-8f4c-2189fee2d71b")
+		(property "Reference" "#PWR03"
+			(at 30.48 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AC_{OUT} (A)"
+			(at 21.59 88.8999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 27.94 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 27.94 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"AC\""
+			(at 27.94 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7d813900-a086-42ec-ae00-f3cc2f5f6b1a")
+		)
+		(instances
+			(project "TP-Link_Tapo_P110_AU"
+				(path "/7315a680-fa54-4737-88bc-efa2941399e6"
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -3982,7 +4510,7 @@
 	)
 	(symbol
 		(lib_id "power:AC")
-		(at 38.1 55.88 90)
+		(at 59.69 55.88 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3991,7 +4519,7 @@
 		(fields_autoplaced yes)
 		(uuid "93e6b2e3-dead-4973-9068-cbc9d5046813")
 		(property "Reference" "#PWR02"
-			(at 40.64 55.88 0)
+			(at 62.23 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4000,7 +4528,7 @@
 			)
 		)
 		(property "Value" "AC_{IN} (N)"
-			(at 31.75 55.8799 90)
+			(at 53.34 55.8799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4009,7 +4537,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 38.1 55.88 0)
+			(at 59.69 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4018,7 +4546,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 38.1 55.88 0)
+			(at 59.69 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4027,7 +4555,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"AC\""
-			(at 38.1 55.88 0)
+			(at 59.69 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4421,7 +4949,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 22.86 151.13 0)
+		(at 30.48 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4430,7 +4958,7 @@
 		(fields_autoplaced yes)
 		(uuid "b9379f28-98c3-4119-915e-38616514d441")
 		(property "Reference" "R91"
-			(at 25.4 149.8599 0)
+			(at 33.02 55.8799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4439,7 +4967,7 @@
 			)
 		)
 		(property "Value" "1mΩ"
-			(at 25.4 152.3999 0)
+			(at 33.02 58.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4448,7 +4976,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder"
-			(at 21.082 151.13 90)
+			(at 28.702 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4457,7 +4985,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 22.86 151.13 0)
+			(at 30.48 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4466,7 +4994,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 22.86 151.13 0)
+			(at 30.48 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4515,7 +5043,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm-3"
 			(at 146.05 171.45 0)
 			(effects
 				(font
@@ -4555,6 +5083,150 @@
 			(project ""
 				(path "/7315a680-fa54-4737-88bc-efa2941399e6"
 					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:AC")
+		(at 71.12 107.95 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d5d9ea7a-1188-406d-b537-3bf609f26bde")
+		(property "Reference" "#PWR04"
+			(at 73.66 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AC_{OUT} (N)"
+			(at 64.77 107.9499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 71.12 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 71.12 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"AC\""
+			(at 71.12 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2737647c-c265-4ef4-8985-0b4f191de146")
+		)
+		(instances
+			(project "TP-Link_Tapo_P110_AU"
+				(path "/7315a680-fa54-4737-88bc-efa2941399e6"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Relay:Relay_SPST-NO")
+		(at 35.56 77.47 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d6d5b596-2738-4e0d-9411-772ff5c2b21a")
+		(property "Reference" "SW1"
+			(at 46.99 76.1999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Churod A1-S-105IA2F"
+			(at 46.99 78.7399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 24.13 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 35.56 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Relay SPST, normally open, EN50005"
+			(at 35.56 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "A1"
+			(uuid "b261ba5f-9676-4ee6-82aa-ea33c3e935ba")
+		)
+		(pin "A2"
+			(uuid "2707317d-4ad6-4964-86a4-716c433eb3c7")
+		)
+		(pin "13"
+			(uuid "dfe5fecd-9a8d-4a7b-a1df-9d96b9cb0fde")
+		)
+		(pin "14"
+			(uuid "38b3e94b-3392-4547-baf7-cf4b7ffa8499")
+		)
+		(instances
+			(project ""
+				(path "/7315a680-fa54-4737-88bc-efa2941399e6"
+					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -4840,7 +5512,7 @@
 	)
 	(symbol
 		(lib_id "power:AC")
-		(at 38.1 43.18 90)
+		(at 29.21 43.18 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4849,7 +5521,7 @@
 		(fields_autoplaced yes)
 		(uuid "f9ef8e86-54b3-4d80-90bc-5d6519f2bf5a")
 		(property "Reference" "#PWR01"
-			(at 40.64 43.18 0)
+			(at 31.75 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4858,7 +5530,7 @@
 			)
 		)
 		(property "Value" "AC_{IN} (A)"
-			(at 31.75 43.1799 90)
+			(at 22.86 43.1799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4867,7 +5539,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 38.1 43.18 0)
+			(at 29.21 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4876,7 +5548,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 38.1 43.18 0)
+			(at 29.21 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4885,7 +5557,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"AC\""
-			(at 38.1 43.18 0)
+			(at 29.21 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
