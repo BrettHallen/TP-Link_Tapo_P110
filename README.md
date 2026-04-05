@@ -20,21 +20,24 @@ The P110 uses a custom daughterboard labelled KB-6160 and ZSL-1 containing a Rea
 
 The daughterboard has 12 contacts to the main board.<br>
 
-On the front (MCU side), labelled from left-to-right:
-- P11
-- P9
-- P6
-- P1
-- P12 (GND)
-- P2 (+3.3V)
+This is what I can determine: Pxx are the daughterboard pins and CONxx are the main board pins.<br>
 
-On the back, labelled from left-to-right:
-- P3
-- P4
-- P5
-- P7
-- P8
-- P10
+| Motherboard | Daughterboard | Purpose            |
+|-------------|---------------|--------------------|
+| P1          | CON1          | BL0937 CF1 (pin 7) |
+| P2          | CON12         | +3.3V              |
+| P3          | CON3          | LED via R33        |
+| P4          | CON4          | LED via R34        |
+| P5          | CON5          |                    |
+| P6          | CON6          |                    |
+| P7          | CON7          |                    |
+| P8          | CON8          |                    |
+| P9          | CON9          |                    |
+| P10         | CON10         |                    |
+| P11         | CON11         | BL0937 SEL (pin 8) |
+| P12         | CON2          | GND                |
+
+(yes, it seems they mislabelled/swapped P12/CON2 and P2/CON12).<br>
 
 It also has six Test Points:
 - TP1
