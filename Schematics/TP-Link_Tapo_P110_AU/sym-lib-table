@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TP-Link_Tapo_P110")(type "KiCad")(uri "${KIPRJMOD}/TP-Link_Tapo_P110.kicad_sym")(options "")(descr ""))
+)

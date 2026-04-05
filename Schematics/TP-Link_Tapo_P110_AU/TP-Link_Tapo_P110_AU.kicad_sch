@@ -627,6 +627,394 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Sensor:BL0937"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 2.54 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "BL0937"
+				(at 5.08 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Package_SO:JEITA_SOIC-8_3.9x4.9mm_P1.27mm"
+				(at 2.54 -17.78 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.belling.com.cn/media/file_object/bel_product/BL0937/datasheet/BL0937_V1.02_en.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Single Phase Energy Meter IC with Integrated Oscillator, JEITA SOIC-8 (SOP-8)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "current sensor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "JEITA?SOIC*3.9x4.9mm*P1.27mm*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "BL0937_0_1"
+				(rectangle
+					(start -7.62 5.08)
+					(end 7.62 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "BL0937_1_1"
+				(pin input line
+					(at -10.16 2.54 0)
+					(length 2.54)
+					(name "IP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -10.16 0 0)
+					(length 2.54)
+					(name "IN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -10.16 -2.54 0)
+					(length 2.54)
+					(name "VP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 7.62 270)
+					(length 2.54)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -7.62 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 10.16 2.54 180)
+					(length 2.54)
+					(name "CF"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 10.16 0 180)
+					(length 2.54)
+					(name "CF1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 10.16 -2.54 180)
+					(length 2.54)
+					(name "SEL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "TP-Link_Tapo_P110:SY22841"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "SY22841"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5_HandSoldering"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "Silergy AC DC Buck"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SY22841_1_1"
+				(rectangle
+					(start -7.62 -2.54)
+					(end 7.62 -12.7)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type color)
+						(color 255 255 194 1)
+					)
+				)
+				(pin input line
+					(at -5.08 0 270)
+					(length 2.54)
+					(name "LX"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -5.08 -15.24 90)
+					(length 2.54)
+					(name "V_{SEN}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 0 -15.24 90)
+					(length 2.54)
+					(name "V_{IN}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 0 270)
+					(length 2.54)
+					(name "I_{SET}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 -15.24 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:AC"
 			(power)
 			(pin_numbers
@@ -765,6 +1153,12 @@
 		)
 	)
 	(junction
+		(at 133.35 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0b010282-e657-4c4d-b151-4a304399eb54")
+	)
+	(junction
 		(at 96.52 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -777,10 +1171,26 @@
 		(uuid "25de5769-628a-4fa6-b278-86a3a62dd086")
 	)
 	(junction
+		(at 129.54 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "83ad0a6a-3d4d-480f-9530-8e3580e27fe7")
+	)
+	(junction
 		(at 96.52 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f3d1d629-1855-4e01-8958-52b7024671a1")
+	)
+	(wire
+		(pts
+			(xy 129.54 55.88) (xy 133.35 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0554d99f-b4de-4c2e-a840-77cf88480f30")
 	)
 	(wire
 		(pts
@@ -814,13 +1224,23 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 45.72) (xy 133.35 43.18)
+			(xy 133.35 50.8) (xy 146.05 50.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5fd2ef93-4465-4a97-93bc-edae92b531a3")
+		(uuid "676e47d6-d4ec-4ee5-9eb8-af7ba68d157a")
+	)
+	(wire
+		(pts
+			(xy 133.35 50.8) (xy 133.35 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6870e29d-35fe-4b51-bdb0-be9b50ccbd85")
 	)
 	(wire
 		(pts
@@ -844,7 +1264,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 55.88) (xy 133.35 55.88)
+			(xy 121.92 55.88) (xy 129.54 55.88)
 		)
 		(stroke
 			(width 0)
@@ -864,7 +1284,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 55.88) (xy 133.35 53.34)
+			(xy 133.35 43.18) (xy 133.35 50.8)
 		)
 		(stroke
 			(width 0)
@@ -1013,6 +1433,85 @@
 			(project ""
 				(path "/7315a680-fa54-4737-88bc-efa2941399e6"
 					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "TP-Link_Tapo_P110:SY22841")
+		(at 151.13 50.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "598c3ed8-5161-453a-8af7-0f3f10d38aec")
+		(property "Reference" "U1"
+			(at 160.02 57.1499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SY22841"
+			(at 160.02 59.6899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5_HandSoldering"
+			(at 151.13 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 151.13 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 151.13 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "d3aa13f7-efdb-48f9-964d-49beacfbae08")
+		)
+		(pin "1"
+			(uuid "acf3baf4-f43d-49bf-9b69-6e6c9374504b")
+		)
+		(pin "2"
+			(uuid "c729fc8f-c0a0-41f1-b3c6-e6c80554a524")
+		)
+		(pin "5"
+			(uuid "15387692-235c-46fc-9637-67c809362c3d")
+		)
+		(pin "3"
+			(uuid "fe3e861c-cf11-4d14-8bd0-c0d350f2bfe0")
+		)
+		(instances
+			(project ""
+				(path "/7315a680-fa54-4737-88bc-efa2941399e6"
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -1382,7 +1881,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 133.35 49.53 180)
+		(at 129.54 59.69 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1391,7 +1890,7 @@
 		(fields_autoplaced yes)
 		(uuid "92d470f5-a9cc-4047-8ea3-704a47acc7ef")
 		(property "Reference" "R2"
-			(at 135.89 48.2599 0)
+			(at 132.08 58.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1400,7 +1899,7 @@
 			)
 		)
 		(property "Value" "2MΩ"
-			(at 135.89 50.7999 0)
+			(at 132.08 60.9599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1409,7 +1908,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 135.128 49.53 90)
+			(at 131.318 59.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1418,7 +1917,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.35 49.53 0)
+			(at 129.54 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1427,7 +1926,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 133.35 49.53 0)
+			(at 129.54 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1442,7 +1941,7 @@
 			(uuid "4d814edc-cd09-40b0-ae6d-b26f2df42110")
 		)
 		(instances
-			(project ""
+			(project "TP-Link_Tapo_P110_AU"
 				(path "/7315a680-fa54-4737-88bc-efa2941399e6"
 					(reference "R2")
 					(unit 1)
@@ -1586,6 +2085,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Sensor:BL0937")
+		(at 52.07 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a82c4c11-d972-4ebe-946b-47969114aaec")
+		(property "Reference" "U7"
+			(at 54.2133 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BL0937"
+			(at 54.2133 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:JEITA_SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 54.61 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.belling.com.cn/media/file_object/bel_product/BL0937/datasheet/BL0937_V1.02_en.pdf"
+			(at 52.07 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Single Phase Energy Meter IC with Integrated Oscillator, JEITA SOIC-8 (SOP-8)"
+			(at 52.07 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "6"
+			(uuid "57ccea47-51bd-4b53-b456-618e80e25c0d")
+		)
+		(pin "3"
+			(uuid "e267e27a-2acc-4028-b950-22f4c78e5677")
+		)
+		(pin "4"
+			(uuid "cb5deeb1-1cab-481c-b1ea-d9b700284b01")
+		)
+		(pin "1"
+			(uuid "69b1466f-326d-4c89-b897-c75f47f6f2df")
+		)
+		(pin "5"
+			(uuid "ff073dee-abe7-4a63-b2de-4087504c7fa5")
+		)
+		(pin "2"
+			(uuid "6c30ca75-c3b7-4387-9180-ccf03c1e1a9d")
+		)
+		(pin "8"
+			(uuid "63959df0-86cd-4284-b5cc-a7110a39d549")
+		)
+		(pin "7"
+			(uuid "05ace17e-0eba-4e74-a662-903988485ee1")
+		)
+		(instances
+			(project ""
+				(path "/7315a680-fa54-4737-88bc-efa2941399e6"
+					(reference "U7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Polarized")
 		(at 96.52 49.53 0)
 		(unit 1)
@@ -1711,7 +2298,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "2789f795-ccb7-464d-82e8-0d76712094d7")
+			(uuid "2789f795-ccb7-464d-82e8-0d76712094d8")
 		)
 		(instances
 			(project ""
