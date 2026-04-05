@@ -33,7 +33,7 @@ This is what I can determine: Pxx are the daughterboard pins and CONxx are the m
 | P7          | CON7          |                    |
 | P8          | CON8          |                    |
 | P9          | CON9          |                    |
-| P10         | CON10         |                    |
+| P10         | CON10         | BL0937 CF (pin 6)  | 
 | P11         | CON11         | BL0937 SEL (pin 8) |
 | P12         | CON2          | GND                |
 
