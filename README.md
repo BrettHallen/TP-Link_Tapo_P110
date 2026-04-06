@@ -3,6 +3,7 @@ Random information about the TP-Link Tapo P110 smart plug.<br>
 
 ## YouTube Videos
 - [Part 1: Initial teardown & serial port logs](https://youtu.be/b5snm9TfyWc)
+- [Part 2: Further serial interface testing]()
 
 ## [Images](/Images)
 Photos of the board and components.<br>
@@ -46,8 +47,8 @@ This is what I can determine: Pxx are the daughterboard pins and CONxx are the m
 
 It also has six Test Points:
 - TP1
-- TP2
+- TP2 (pulled high ... download image)
 - TP3 (+3.3V)
 - TP4 (GND)
-- TP5 (serial receive?)
-- TP6 (serial transmit, 115200kbps, 8N1)
+- TP5 (serial receive, 115200bps, 8N1)
+- TP6 (serial transmit, 115200bps, 8N1)
