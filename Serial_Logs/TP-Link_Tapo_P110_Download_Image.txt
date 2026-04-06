@@ -1,0 +1,5 @@
+== Rtl8710c IoT Platform ==
+Chip VID: 5, Ver: 3
+ROM Version: v3.0
+Test Mode: boot_cfg1=0x20
+Download Image over UART2[tx=16,rx=15] baud=115200
