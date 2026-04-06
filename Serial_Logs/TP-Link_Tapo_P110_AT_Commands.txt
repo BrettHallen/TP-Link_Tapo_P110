@@ -1,135 +1,29 @@
 # help
 
-
-
-
 WLAN AT COMMAND SET:
-
-
 ==============================
-
-
 1. Wlan Scan for Network Access Point
-
-
    # ATWS
-
-
 2. Connect to an AES AP
-
-
    # ATW0=SSID
-
-
    # ATW1=PASSPHRASE
-
-
    # ATWC
-
-
 3. Create an AES AP
-
-
    # ATW3=SSID
-
-
    # ATW4=PASSPHRASE
-
-
    # ATW5=CHANNEL
-
-
    # ATWA
-
-
 4. Ping
-
-
    # ATWI=xxx.xxx.xxx.xxx
-
-
 [MEM] After do cmd, available heap 29688
-
-
-
-
 
 # ATWS
 
-
-
-
 unknown command 'ATWS'
-
-
 [MEM] After do cmd, available heap 29688
-
-
-
-
 
 # ATW
 
-
-
-
 unknown command 'ATW'
-
-
 [MEM] After do cmd, available heap 29688
 
-
-
-
-
-# help
-
-
-
-
-WLAN AT COMMAND SET:
-
-
-==============================
-
-
-1. Wlan Scan for Network Access Point
-
-
-   # ATWS
-
-
-2. Connect to an AES AP
-
-
-   # ATW0=SSID
-
-
-   # ATW1=PASSPHRASE
-
-
-   # ATWC
-
-
-3. Create an AES AP
-
-
-   # ATW3=SSID
-
-
-   # ATW4=PASSPHRASE
-
-
-   # ATW5=CHANNEL
-
-
-   # ATWA
-
-
-4. Ping
-
-
-   # ATWI=xxx.xxx.xxx.xxx
-
-
-[MEM] After do cmd, available heap 29688
