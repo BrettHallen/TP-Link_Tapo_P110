@@ -47,7 +47,7 @@ This is what I can determine: Pxx are the daughterboard pins and CONxx are the m
 
 It also has six Test Points:
 - TP1
-- TP2 (pulled high ... download image)
+- TP2 (pulled high ... "download image" mode)
 - TP3 (+3.3V)
 - TP4 (GND)
 - TP5 (serial receive, 115200bps, 8N1)
